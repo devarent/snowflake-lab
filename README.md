@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# snowflake-lab
+
+<sub>Practice Snowflake SQL: warehouses, databases, stages, `COPY INTO`, `QUALIFY`, and time travel.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | snowflake-lab |
+| Primary language | Mixed / documentation |
+| Topics | analytics, cloud, data-warehouse, database, database-labs, devarent, lab, snowflake, sql |
+| License | MIT |
+| Branch | main |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+snowflake-lab is a hands-on repository focused on: Practice Snowflake SQL: warehouses, databases, stages, `COPY INTO`, `QUALIFY`, and time travel.. Primary language: Mixed / documentation. Topics: analytics, cloud, data-warehouse, database, database-labs, devarent, lab, snowflake, sql. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
